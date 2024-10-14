@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Kopi ABC",
+        "price": 15000,
+        "address": "Jakarta",
+        "category": "Beverages"
+    },
+    {
+        "id": 2,
+        "name": "Torpedo Biscuit",
+        "price": 10000,
+        "address": "Bandung",
+        "category": "Snacks"
+    },
+    {
+        "id": 3,
+        "name": "Choki Choki",
+        "price": 5000,
+        "address": "Surabaya",
+        "category": "Chocolate"
+    },
+    {
+        "id": 4,
+        "name": "Roma Malkist",
+        "price": 12000,
+        "address": "Medan",
+        "category": "Biscuits"
+    },
+    {
+        "id": 5,
+        "name": "Energen Cereal",
+        "price": 8000,
+        "address": "Bekasi",
+        "category": "Cereal"
+    },
+    {
+        "id": 6,
+        "name": "Tango Wafer",
+        "price": 15000,
+        "address": "Semarang",
+        "category": "Wafer"
+    },
+    {
+        "id": 7,
+        "name": "Sari Gandum",
+        "price": 6000,
+        "address": "Depok",
+        "category": "Biscuits"
+    },
+    {
+        "id": 8,
+        "name": "Slai O'lai",
+        "price": 7000,
+        "address": "Bogor",
+        "category": "Jam"
+    },
+    {
+        "id": 9,
+        "name": "Better Wafer",
+        "price": 13000,
+        "address": "Tangerang",
+        "category": "Wafer"
+    },
+    {
+        "id": 10,
+        "name": "Kratingdaeng",
+        "price": 16000,
+        "address": "Bandung",
+        "category": "Beverages"
+    }
+]
