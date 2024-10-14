@@ -16,3 +16,6 @@ Syarat:
    2. tugas lanjutan video dea afrizal dengan JSON custom
 
 **DEADLINE: 21:00 WIB**
+
+**public/data/data.json**
+_fetch('/data/data.json')_
